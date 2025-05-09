@@ -12,3 +12,6 @@ student[city]="Karachi"
 echo "Name: ${student[name]}"
 echo "Age: ${student[age]}"
 echo "City: ${student[city]}"
+
+
+
